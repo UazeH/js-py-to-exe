@@ -4,8 +4,8 @@ os.system("cls || clear")
 os.system("color 0b")
 os.system("title github.com/uazeh")
 print("=================\nConvert JS/Py to Exe\ngithub.com/uazeh\nUaze Ganteng:V\n=================")
-plh = input("[1] JS to Exe\n[2] Py to Exe\n#--> = ")
-if plh == "1":
+pilih = input("[1] JS to Exe\n[2] Py to Exe\n#--> = ")
+if pilih == "1":
     os.system("npm install -g pkg")
     os.system("cls")
     os.system("color 0b")
@@ -34,7 +34,7 @@ if plh == "1":
     time.sleep(5)
     print("File already converted...")
     time.sleep(5)
-elif plh == '2':
+elif pilih == '2':
     os.system("pip install pyinstaller")
     os.system("cls")
     os.system("color 0b")
