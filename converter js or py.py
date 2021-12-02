@@ -1,6 +1,5 @@
 import os, sys, time
 
-os.system("cls || clear")
 os.system("color 0b")
 os.system("title github.com/uazeh")
 print("=================\nConvert JS/Py to Exe\ngithub.com/uazeh\nUaze Ganteng:V\n=================")
