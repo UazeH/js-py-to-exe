@@ -1,1 +1,1 @@
-# js-py-to-exe
+# sorry bad grammar
